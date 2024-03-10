@@ -5,6 +5,7 @@
   - Espresso
   - Latte
   - Cappuccino
+  - [Signature latte](SignatureLatte.jpg)
 - **Tea**
   - Green Tea
   - Earl Grey
